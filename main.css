@@ -1,0 +1,610 @@
+body {
+padding: 0;
+margin: 0;
+color: #000000;
+font-size: 15px; 
+font-family: 'Source Sans Pro', serif;
+font-weight: 400;
+}
+
+.container {
+
+    margin: 0 auto;
+    width: 1110px;
+}
+
+.logo{
+position: absolute;
+width: 72px;
+height: 35px;
+left: 71.51px;
+top: 29px;
+}
+.Button-Component{
+position: absolute;
+width: 132px;
+height: 40px;
+left: 1175.51px;
+top: 29px;
+}
+.container2{
+    margin: 0 auto;
+    position: absolute;
+width: 1126px;
+height: 560px;
+left: 72px;
+top: 122px;
+}
+header{
+position: absolute;
+width: 1520px;
+height: 793.71px;
+left: 0px;
+top: 0px;
+background: #202249;
+}
+.slogan{
+    position: absolute;
+height: 216px;
+left: 0%;
+right: 58.17%;
+top: calc(50% - 216px/2 - 156px);
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 72px;
+
+letter-spacing: -0.832px;
+color: #FFFFFF;
+}
+.text1{
+    margin-top: 70px;
+    position: absolute;
+    left: 0%;
+    right: 54.62%;
+    top: 45.89%;
+    bottom: 42.68%;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+    
+    letter-spacing: 0.36px;
+    
+    color: #FFFFFF;
+    
+}
+.CTAButton{
+ position: absolute;
+left: 0%;
+right: 80.91%;
+top: 63.75%;
+bottom: 25.71%;
+margin-top: 70px;
+}
+.AppStore{
+    position: absolute;
+    width: 150px;
+    height: 44.81px;
+    left: 74.51px;
+    top: 581.55px;
+}
+.GooglePlay{
+position: absolute;
+width: 150px;
+height: 44.69px;
+left: 247.51px;
+top: 581.62px;
+}
+.telephone{
+    position: absolute;
+left: 63.06%;
+right: 7.82%;
+top: 2.68%;
+bottom: 6.96%;
+
+background: url(.png);
+}
+.screens{
+    position: absolute;
+width: 859px;
+height: 537px;
+left: 30px;
+top: 1019px;
+}
+.container1{
+    position: absolute;
+width: 472px;
+height: 199px;
+left: 894px;
+top: 1105px;
+}
+.text2{
+    position: absolute;
+width: 153px;
+height: 22px;
+left: 0px;
+top: calc(50% - 22px/2 - 88.5px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+
+
+letter-spacing: 0.416px;
+
+color: #202249;
+}
+.text3{
+    position: absolute;
+width: 405px;
+height: 49px;
+left: calc(50% - 405px/2 - 33.5px);
+top: calc(50% - 49px/2 - 37px);
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 49px;
+
+color: #000000;
+}
+.text4{
+   margin-top: 30px;
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 51.76%;
+bottom: 0%;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+
+
+letter-spacing: 0.36px;
+
+color: #000000;
+}
+
+.container3{
+    position: absolute;
+width: 616px;
+height: 180px;
+left: 375px;
+top: 1593px;
+}
+.text5{
+    position: absolute;
+height: 22px;
+left: 37.34%;
+right: 37.5%;
+top: calc(50% - 22px/2 - 76px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+
+
+text-align: center;
+letter-spacing: 0.416px;
+
+color: #7047EB;
+}
+.text6{
+    position: absolute;
+width: 416px;
+height: 49px;
+left: calc(50% - 416px/2 + 0.5px);
+top: calc(50% - 49px/2 - 27.5px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 49px;
+
+
+text-align: center;
+
+color: #000000;
+
+}
+.text7{
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 64.44%;
+    bottom: 0%;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    
+    text-align: center;
+    letter-spacing: 0.36px;
+    
+    color: #000000;
+}
+.sectionimg{
+    position: absolute;
+width: 501px;
+height: 597px;
+left: 423.36px;
+top: 1860px;
+}
+.container4{
+    position: absolute;
+width: 289px;
+height: 195px;
+left: 53px;
+top: 1902px;
+}
+.slogan1{
+    position: absolute;
+height: 32px;
+left: 32,62%;
+right: 0%;
+top: calc(50% - 32px/2 - 16.5px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 32px;
+
+text-align: right;
+letter-spacing: 0.44px;
+
+color: #000000;
+
+}
+.text8{
+    margin-top: 30px;
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 56.92%;
+bottom: 0%;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+
+
+text-align: right;
+letter-spacing: 0.32px;
+
+color: #000000;
+}
+.icon1{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 231px;
+top: 0px;
+}
+.container5{
+    position: absolute;
+width: 282px;
+height: 195px;
+left: 56px;
+top: 2227px;
+}
+.container6{
+    position: absolute;
+width: 282px;
+height: 195px;
+left: 1032px;
+top: 1902px;
+}
+.icon2{
+    
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 0px;
+top: 0px;
+}
+.slogan2{
+   
+    position: absolute;
+height: 32px;
+left: 0%;
+right: 45.39%;
+ top: calc(50% - 32px/2 - 16.5px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 32px;
+
+
+letter-spacing: 0.44px;
+
+color: #000000;
+}
+.container7{
+    position: absolute;
+width: 249px;
+height: 195px;
+left: 1035px;
+top: 2227px;
+}
+.slogan3{
+    position: absolute;
+height: 32px;
+left: 0%;
+right: 3.61%;
+top: calc(50% - 32px/2 - 16.5px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 32px;
+
+
+letter-spacing: 0.44px;
+
+color: #000000;
+}
+
+.container8{
+   margin-top: 0 auto;
+    position: absolute;
+    width: 1237px;
+    height: 866.59px;
+    left: 65px;
+    top: 2236px;
+}
+.sectionimg1{
+    position: absolute;
+width: 400px;
+height: 596.59px;
+left: 483px;
+top: 2856px;
+}
+.container9{
+    position: absolute;
+width: 285px;
+height: 195px;
+left: 65px;
+top: 2897px;
+
+}
+.container10{
+    position: absolute;
+width: 275px;
+height: 195px;
+left: 65px;
+top: 3222px;
+}
+.container11{
+    position: absolute;
+width: 262px;
+height: 195px;
+left: 1021px;
+top: 2897px;
+}
+.container12{
+    position: absolute;
+width: 281px;
+height: 195px;
+left: 1021px;
+top: 3222px;
+}
+.container13{
+    position: absolute;
+width: 616px;
+height: 180px;
+left: 375px;
+top: 3582px;
+}
+.text71{
+    margin-top: 75px;
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 64.44%;
+bottom: 0%;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+
+
+text-align: center;
+letter-spacing: 0.36px;
+
+color: #000000;
+}
+.sectionimg2{
+    position: absolute;
+width: 411px;
+height: 597.43px;
+left: 472px;
+top: 3850.57px;
+}
+.container14{
+    position: absolute;
+width: 285px;
+height: 195px;
+left: 63px;
+top: 3893px;
+
+}
+.container15{
+    position: absolute;
+width: 275px;
+height: 195px;
+left: 63px;
+top: 4218px;
+}
+.container16{
+    position: absolute;
+width: 262px;
+height: 196px;
+left: 1018px;
+top: 3892px;
+
+}
+.container17{
+    position: absolute;
+width: 281px;
+height: 195px;
+left: 1022px;
+top: 4218px;
+}
+.container18{
+    position: absolute;
+width: 616px;
+height: 265px;
+left: 375px;
+top: 4579px;
+}
+.CTAButton1{
+   margin-top: 107px;
+    position: absolute;
+width: 215px;
+height: 59px;
+left: 201px;
+top: 206px;
+}
+.Testimonials{
+    margin-top: 30px;
+    position: absolute;
+width: 1026px;
+height: 369px;
+left: 170px;
+top: 4929px;
+}
+.footer{
+    position: absolute;
+width: 1527px;
+height: 866.22px;
+left: -2px;
+top: 5530px;
+background-color: #202249;
+}
+.container19{
+    margin: 0 auto;
+    position: absolute;
+left: 5.55%;
+right: 58.48%;
+top: 22.86%;
+bottom: 51.17%;
+}
+.text9{
+    position: absolute;
+height: 22px;
+left: 0%;
+right: 65.11%;
+top: calc(50% - 22px/2 - 83.5px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+
+
+letter-spacing: 0.416px;
+
+color: #FFFFFF;
+}
+.slogan4{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 25.33%;
+bottom: 0%;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+
+
+
+color: #FFFFFF;
+}
+.CTAButton2{
+   margin-top: 20px;
+    position: absolute;
+width: 215px;
+height: 59px;
+left: 76px;
+top: 474px;
+
+}
+.APPSTORE1{
+    position: absolute;
+width: 150px;
+height: 44.81px;
+left: 80px;
+top: 578.55px;
+
+}
+.googleplay1{
+    position: absolute;
+    width: 150px;
+    height: 44.69px;
+    left: 253px;
+    top: 578.62px;
+    
+}
+.footerimg{
+    position: absolute;
+width: 495px;
+height: 498px;
+left: 722px;
+top: 191px;
+}
+.logo1{
+    position: absolute;
+left: 5.55%;
+right: 89.2%;
+top: 88.89%;
+bottom: 7.07%;
+}
+.footertext{
+    position: absolute;
+height: 24px;
+left: 72.67%;
+right: 11.2%;
+top: calc(50% - 24px/2 + 356.89px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+
+
+letter-spacing: 0.364px;
+
+color: #FFFFFF;
+}
+.myVK{
+    color: #FFFFFF
+}
