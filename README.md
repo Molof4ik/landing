@@ -1,0 +1,2 @@
+# landing
+практика github pages
